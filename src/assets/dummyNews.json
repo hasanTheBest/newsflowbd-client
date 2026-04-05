@@ -1,0 +1,227 @@
+[
+  {
+    "title": "AI is reshaping the future of web development",
+    "description": "Developers are leveraging AI tools to automate repetitive tasks and boost productivity.",
+    "image": "https://source.unsplash.com/random/400x300?ai",
+    "source": "TechCrunch",
+    "time": "2 hours ago",
+    "url": "https://example.com/news1",
+    "author": "John Doe"
+  },
+  {
+    "title": "Global markets rally amid economic optimism",
+    "description": "Stock markets worldwide saw gains as investors reacted positively to new data.",
+    "image": "https://source.unsplash.com/random/400x300?finance",
+    "source": "Bloomberg",
+    "time": "3 hours ago",
+    "url": "https://example.com/news2",
+    "author": "Sarah Lee"
+  },
+  {
+    "title": "New smartphone release sets performance benchmark",
+    "description": "The latest flagship device introduces cutting-edge hardware and software features.",
+    "image": "https://source.unsplash.com/random/400x300?smartphone",
+    "source": "The Verge",
+    "time": "5 hours ago",
+    "url": "https://example.com/news3",
+    "author": "Michael Chen"
+  },
+  {
+    "title": "Climate change impacts intensify globally",
+    "description": "Scientists warn of increasing extreme weather events across continents.",
+    "image": "https://source.unsplash.com/random/400x300?climate",
+    "source": "BBC News",
+    "time": "6 hours ago",
+    "url": "https://example.com/news4",
+    "author": "Emma Watson"
+  },
+  {
+    "title": "Breakthrough in renewable energy technology",
+    "description": "A new innovation promises more efficient solar energy storage solutions.",
+    "image": "https://source.unsplash.com/random/400x300?solar",
+    "source": "Reuters",
+    "time": "8 hours ago",
+    "url": "https://example.com/news5",
+    "author": "David Miller"
+  },
+  {
+    "title": "Major esports tournament draws global audience",
+    "description": "Millions tuned in to watch top teams compete in the annual championship.",
+    "image": "https://source.unsplash.com/random/400x300?esports",
+    "source": "IGN",
+    "time": "9 hours ago",
+    "url": "https://example.com/news6",
+    "author": "Chris Evans"
+  },
+  {
+    "title": "Healthcare advances improve patient outcomes",
+    "description": "New treatment methods are helping patients recover faster than before.",
+    "image": "https://source.unsplash.com/random/400x300?healthcare",
+    "source": "Medical News Today",
+    "time": "10 hours ago",
+    "url": "https://example.com/news7",
+    "author": "Olivia Brown"
+  },
+  {
+    "title": "Space agency announces new moon mission",
+    "description": "The upcoming mission aims to establish a long-term presence on the moon.",
+    "image": "https://source.unsplash.com/random/400x300?space",
+    "source": "NASA News",
+    "time": "12 hours ago",
+    "url": "https://example.com/news8",
+    "author": "Neil Armstrong"
+  },
+  {
+    "title": "Education sector embraces digital transformation",
+    "description": "Online learning platforms continue to grow in popularity worldwide.",
+    "image": "https://source.unsplash.com/random/400x300?education",
+    "source": "EdTech Review",
+    "time": "14 hours ago",
+    "url": "https://example.com/news9",
+    "author": "Sophia Davis"
+  },
+  {
+    "title": "Cybersecurity threats increase across industries",
+    "description": "Experts urge companies to strengthen their digital defenses.",
+    "image": "https://source.unsplash.com/random/400x300?cybersecurity",
+    "source": "Wired",
+    "time": "15 hours ago",
+    "url": "https://example.com/news10",
+    "author": "James Wilson"
+  },
+  {
+    "title": "Electric vehicles gain market momentum",
+    "description": "EV adoption is accelerating as infrastructure improves.",
+    "image": "https://source.unsplash.com/random/400x300?electric-car",
+    "source": "CNBC",
+    "time": "16 hours ago",
+    "url": "https://example.com/news11",
+    "author": "Daniel Garcia"
+  },
+  {
+    "title": "New streaming platform enters competitive market",
+    "description": "The service offers exclusive content to attract subscribers.",
+    "image": "https://source.unsplash.com/random/400x300?streaming",
+    "source": "Variety",
+    "time": "18 hours ago",
+    "url": "https://example.com/news12",
+    "author": "Isabella Martinez"
+  },
+  {
+    "title": "Scientists discover potential cancer treatment",
+    "description": "Early trials show promising results for a new therapy.",
+    "image": "https://source.unsplash.com/random/400x300?science",
+    "source": "Nature",
+    "time": "20 hours ago",
+    "url": "https://example.com/news13",
+    "author": "Robert Johnson"
+  },
+  {
+    "title": "Travel industry rebounds after slowdown",
+    "description": "Airlines and hotels report increased bookings this season.",
+    "image": "https://source.unsplash.com/random/400x300?travel",
+    "source": "Forbes",
+    "time": "22 hours ago",
+    "url": "https://example.com/news14",
+    "author": "Emily Clark"
+  },
+  {
+    "title": "New culinary trends take over social media",
+    "description": "Food creators are experimenting with bold flavors and presentation.",
+    "image": "https://source.unsplash.com/random/400x300?food",
+    "source": "Food Network",
+    "time": "1 day ago",
+    "url": "https://example.com/news15",
+    "author": "Gordon Ramsay"
+  },
+  {
+    "title": "Advancements in robotics transform manufacturing",
+    "description": "Automation is increasing efficiency in factories worldwide.",
+    "image": "https://source.unsplash.com/random/400x300?robotics",
+    "source": "MIT Tech Review",
+    "time": "1 day ago",
+    "url": "https://example.com/news16",
+    "author": "Alan Turing"
+  },
+  {
+    "title": "Social media platforms update privacy policies",
+    "description": "New regulations push companies to enhance user data protection.",
+    "image": "https://source.unsplash.com/random/400x300?social-media",
+    "source": "The Guardian",
+    "time": "1 day ago",
+    "url": "https://example.com/news17",
+    "author": "Laura Adams"
+  },
+  {
+    "title": "Breakthrough battery tech extends device life",
+    "description": "Next-gen batteries promise longer usage and faster charging.",
+    "image": "https://source.unsplash.com/random/400x300?battery",
+    "source": "Engadget",
+    "time": "2 days ago",
+    "url": "https://example.com/news18",
+    "author": "Kevin White"
+  },
+  {
+    "title": "Global fashion trends shift towards sustainability",
+    "description": "Brands are adopting eco-friendly materials and practices.",
+    "image": "https://source.unsplash.com/random/400x300?fashion",
+    "source": "Vogue",
+    "time": "2 days ago",
+    "url": "https://example.com/news19",
+    "author": "Anna Wintour"
+  },
+  {
+    "title": "Sports league announces major expansion plans",
+    "description": "New teams will join the league in upcoming seasons.",
+    "image": "https://source.unsplash.com/random/400x300?sports",
+    "source": "ESPN",
+    "time": "2 days ago",
+    "url": "https://example.com/news20",
+    "author": "Mark Thompson"
+  },
+  {
+    "title": "Blockchain adoption grows beyond finance",
+    "description": "Industries explore decentralized solutions for various applications.",
+    "image": "https://source.unsplash.com/random/400x300?blockchain",
+    "source": "CoinDesk",
+    "time": "3 days ago",
+    "url": "https://example.com/news21",
+    "author": "Satoshi Nakamoto"
+  },
+  {
+    "title": "New AI model outperforms previous benchmarks",
+    "description": "Researchers highlight improvements in accuracy and efficiency.",
+    "image": "https://source.unsplash.com/random/400x300?machine-learning",
+    "source": "OpenAI Blog",
+    "time": "3 days ago",
+    "url": "https://example.com/news22",
+    "author": "Sam Altman"
+  },
+  {
+    "title": "Urban development projects reshape city landscapes",
+    "description": "Modern infrastructure projects aim to improve urban living.",
+    "image": "https://source.unsplash.com/random/400x300?city",
+    "source": "CityLab",
+    "time": "3 days ago",
+    "url": "https://example.com/news23",
+    "author": "Henry Ford"
+  },
+  {
+    "title": "Gaming industry revenue hits record high",
+    "description": "Strong sales and new releases drive industry growth.",
+    "image": "https://source.unsplash.com/random/400x300?gaming",
+    "source": "GameSpot",
+    "time": "4 days ago",
+    "url": "https://example.com/news24",
+    "author": "Lara Croft"
+  },
+  {
+    "title": "Scientists explore deep ocean ecosystems",
+    "description": "New discoveries reveal unique marine life forms.",
+    "image": "https://source.unsplash.com/random/400x300?ocean",
+    "source": "National Geographic",
+    "time": "4 days ago",
+    "url": "https://example.com/news25",
+    "author": "Jacques Cousteau"
+  }
+]

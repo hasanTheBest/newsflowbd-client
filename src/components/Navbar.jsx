@@ -5,7 +5,6 @@ import {
   Typography,
   Box,
   IconButton,
-  Drawer,
   InputBase,
   Container,
 } from "@mui/material";
@@ -14,7 +13,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import LightModeIcon from "@mui/icons-material/LightMode";
 import { SettingContext } from "../context/SettingContextProvider";
-import CloseIcon from "@mui/icons-material/Close";
+import MenuDrawerContent from "./MenuDrawerContent";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -67,32 +66,7 @@ export default function Navbar() {
       </AppBar>
 
       {/* DRAWER */}
-      <Drawer anchor="top" open={open} onClose={toggleDrawer(false)}>
-        <Box sx={{ maxWidth: "900px", mx: "auto", p: 2 }}>
-
-          {/* HEADER (Title + Close Button) */}
-          <Box
-            sx={{
-              display: "flex",
-              justifyContent: "space-between",
-              alignItems: "center",
-              mb: 2,
-            }}
-          >
-            <Typography variant="h6">Menu</Typography>
-
-            <IconButton onClick={toggleDrawer(false)}>
-              <CloseIcon />
-            </IconButton>
-          </Box>
-
-          {/* DRAWER CONTENT */}
-          <Typography variant="body2">
-            Add your links here
-          </Typography>
-
-        </Box>
-      </Drawer>
+      <MenuDrawerContent toggleDrawer={toggleDrawer} drawerOpen={open} />
     </>
   );
 }
