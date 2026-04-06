@@ -10,22 +10,28 @@ function Home() {
     <Box>
       <Navbar />
 
-      <Container maxWidth={false} sx={{ maxWidth: "900px" }}>
+      <Container maxWidth={false} sx={{ maxWidth: "990px" }}>
         <NewsSourceName />
-
+      </Container>
+      <Container maxWidth={false} sx={{ maxWidth: "1200px" }}>
         <Box
-          mt={5}
+          mt={7}
           display="grid"
-          gridTemplateColumns="repeat(4, 1fr)"
-          gap={2}
+          gridTemplateColumns="repeat(12, 1fr)"
+          gap={3}
         >
           {dummyNews.map((news, index) => (
-            // <NewsGridItem
-            //   key={index}
-            //   newsIndex={index}
-            // >
-            <NewsCard  {...news} />
-            // </NewsGridItem>
+            <Box sx={{
+              gridColumn: {
+                xs: "span 12", // full width
+                sm: "span 6",  // 2 per row
+                md: "span 4",  // 3 per row
+                lg: "span 3",  // 4 per row
+              },
+              display: "flex",
+            }}>
+              <NewsCard  {...news} />
+            </Box>
           ))}
 
         </Box>

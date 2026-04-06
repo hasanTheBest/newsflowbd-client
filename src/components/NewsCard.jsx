@@ -19,8 +19,8 @@ const NewsCard = ({
   return (
     <Card
       sx={{
-        display: "flex",
-        flexDirection: { xs: "column", sm: "row" },
+        // display: "flex",
+        // flexDirection: { xs: "column", sm: "row" },
         borderRadius: 3,
         boxShadow: 1,
         "&:hover": {
@@ -34,7 +34,7 @@ const NewsCard = ({
         target="_blank"
         sx={{
           display: "flex",
-          flexDirection: { xs: "column", sm: "row" },
+          flexDirection: "column",
           alignItems: "stretch",
         }}
       >

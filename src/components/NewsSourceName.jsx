@@ -10,7 +10,7 @@ export default function NewsSourceName() {
   
 
   return (
-    <Box sx={{ width: "100%" }}>
+    <Box sx={{ width: "100%", mt: 3 }}>
       <SelectNewsCategory />
       <SelectNewspaperName />
       <SubmissionButton />
